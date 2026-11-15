@@ -80,6 +80,6 @@ The supplied GitHub snapshot shows the account at the beginning of its public Gi
 
 •	GitHub: github.com/s2009up-cmd
 
-##### ⭐ Learning continuously. Building gradually. Improving every day.
+#### ⭐ Learning continuously. Building gradually. Improving every day.
 
 
