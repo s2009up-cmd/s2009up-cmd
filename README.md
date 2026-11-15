@@ -4,7 +4,7 @@ First-Year Computer Science & Engineering Student | Programming & Technology Lea
 GitHub: github.com/s2009up-cmd  
 LinkedIn: linkedin.com/in/supriya-s-50598a435
 
-# 📖 About Me
+### 📖 About Me
 
 •	🎓 First-year Computer Science & Engineering student at St. Joseph’s College of Engineering, Tamil Nadu.
 
@@ -19,7 +19,7 @@ LinkedIn: linkedin.com/in/supriya-s-50598a435
 “I’m not here just to learn how technology works; I’m here to understand it, question it, and eventually build something meaningful with it.”
 
 
-# 🛠️ Tech Stack & Learning
+### 🛠️ Tech Stack & Learning
 
 Area	Technologies / Skills
 
@@ -34,7 +34,7 @@ Tools	Git, GitHub, VS Code
 Professional	Communication, Technical Presentation, Teamwork, Research, Logical Thinking
 
 
-# 📌 Featured Work
+### 📌 Featured Work
 
 CampusTwin — Digital Twin Framework for Predicting Energy Waste
 
@@ -48,7 +48,7 @@ Programming & Problem-Solving
 Building programming fundamentals through coding exercises and algorithmic challenges while learning C++, Python, Java, and SQL.
 
 
-# 🎯 Learning Roadmap
+### 🎯 Learning Roadmap
 
 •	🟢 Current: Strengthen C++, Python, Java, and SQL fundamentals.
 
@@ -69,11 +69,11 @@ Building programming fundamentals through coding exercises and algorithmic chall
 •	B.E./B.Tech — Computer Science & Engineering — St. Joseph’s College of Engineering | First Year.
 
 
-# 📊 GitHub Journey
+### 📊 GitHub Journey
 
 The supplied GitHub snapshot shows the account at the beginning of its public GitHub journey, with no public repositories at the time of the snapshot. The profile is intended to grow through programming repositories, algorithm solutions, Python/Java projects, SQL work, and larger academic and personal projects.
 
-# 🤝 Let's Connect
+### 🤝 Let's Connect
 
 
 •	LinkedIn: linkedin.com/in/supriya-s-50598a435
