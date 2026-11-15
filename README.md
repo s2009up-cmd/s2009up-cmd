@@ -1,85 +1,110 @@
-# Hi there, I'm SUPRIYA S
-First-Year Computer Science & Engineering Student | Programming & Technology Learner
+# Hi there, I'm Supriya S 👋
 
-GitHub: github.com/s2009up-cmd  
-LinkedIn: linkedin.com/in/supriya-s-50598a435
+### 🎓 First-Year Computer Science & Engineering Student | Chennai, India
 
-### 📖 About Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/supriya-s-50598a435/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/s2009up-cmd">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-•	🎓 First-year Computer Science & Engineering student at St. Joseph’s College of Engineering, Tamil Nadu.
+---
 
-•	💻 Currently learning C++, Python, Java, and SQL while strengthening programming fundamentals, problem solving, algorithms, and data structures.
+## 👩‍💻 About Me
 
-•	🧠 Interested in understanding how technology works, solving problems, experimenting with ideas, and turning concepts into practical solutions.
+- 🎓 First-year CSE student at St. Joseph's College of Engineering, Tamil Nadu.
+- 💻 Currently learning C++, Python, Java, and SQL.
+- 🧠 Interested in problem-solving, algorithms, and data structures.
+- 🔬 Exploring Digital Twins, IoT, Data Analytics, and emerging technologies.
+- 🎤 Developing technical communication and research presentation skills.
 
-•	🔬 Exploring Digital Twins, IoT, data analytics, and emerging technology through academic and research-oriented work.
+> "I'm not here just to learn how technology works; I'm here to understand it, question it, and eventually build something meaningful with it."
 
-•	🎤 Developing technical communication and presentation skills through paper presentations and academic activities.
+---
 
-“I’m not here just to learn how technology works; I’m here to understand it, question it, and eventually build something meaningful with it.”
+## 🛠️ Tech Stack & Learning
 
+**Programming Languages**
 
-### 🛠️ Tech Stack & Learning
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-Area	Technologies / Skills
+**Tools**
 
-Languages	C++, Python, Java, SQL
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
-Computer Science	Programming Fundamentals, Problem Solving, Algorithms, Data Structures
+**Areas of Interest**
 
-Technology Areas	Digital Twins, IoT, Data Analytics, Software Development
+- Software Development
+- Digital Twin Technology
+- Internet of Things (IoT)
+- Data Analytics
+- Artificial Intelligence
 
-Tools	Git, GitHub, VS Code
+---
 
-Professional	Communication, Technical Presentation, Teamwork, Research, Logical Thinking
+## 🚀 Featured Project
 
+### CampusTwin — Digital Twin Framework for Predicting Energy Waste
 
-### 📌 Featured Work
+A research-oriented conceptual project exploring how a digital representation of a smart college campus could identify and predict energy-wasting patterns.
 
-CampusTwin — Digital Twin Framework for Predicting Energy Waste
+- Explores Digital Twin technology and IoT.
+- Focuses on data collection, analytics, and predictive techniques.
+- Prepared for technical paper presentation and evaluation at SSN College.
 
-A research-oriented conceptual project exploring how a digital representation of a smart college campus could be used to identify and predict energy-wasting patterns.
+---
 
-•	Explores Digital Twin technology, IoT, data collection, data analytics, and predictive techniques.
+## 🎯 Learning Roadmap
 
-•	Prepared for technical paper presentation and evaluation.
+- 🟢 **Currently:** Strengthening C++, Python, Java, and SQL fundamentals.
+- 🔵 **Next:** Building projects using algorithms, data structures, and databases.
+- 🟣 **Exploring:** AI/ML, IoT, Digital Twins, and emerging technologies.
+- 🎯 **Future Goal:** Contributing to collaborative projects, hackathons, and growing as a software engineer.
 
-Programming & Problem-Solving
-Building programming fundamentals through coding exercises and algorithmic challenges while learning C++, Python, Java, and SQL.
+---
 
+## 🏅 Certifications & Academic Highlights
 
-### 🎯 Learning Roadmap
+- **Introduction to Data Science & AI** — IIT Madras | August 2025.
+- **Technical Paper Presentation** — SSN College.
+- **B.E. Computer Science & Engineering** — St. Joseph's College of Engineering.
 
-•	🟢 Current: Strengthen C++, Python, Java, and SQL fundamentals.
+---
 
-•	🔵 Next: Build structured projects using algorithms, data structures, databases, and software-development concepts.
+## 📊 GitHub Statistics
 
-•	🟣 Explore: Practical projects around data, AI/ML, IoT, Digital Twins, and emerging technologies.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s2009up-cmd&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s2009up-cmd&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
+---
 
-•	🎯 Long-term: Build meaningful projects, contribute to collaborative repositories, participate in hackathons and technical events, and grow as a software engineer.
+## 🤝 Let's Connect
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/supriya-s-50598a435/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/s2009up-cmd">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-# 🏅 Certification & Academic Highlights
+---
 
-•	Introduction To Data Science & AI — Indian Institute of Technology, Madras | August 2025.
-
-•	Technical Paper Presentation at SSN College — research, technical communication, presentation, and question handling.
-
-•	B.E./B.Tech — Computer Science & Engineering — St. Joseph’s College of Engineering | First Year.
-
-
-### 📊 GitHub Journey
-
-The supplied GitHub snapshot shows the account at the beginning of its public GitHub journey, with no public repositories at the time of the snapshot. The profile is intended to grow through programming repositories, algorithm solutions, Python/Java projects, SQL work, and larger academic and personal projects.
-
-### 🤝 Let's Connect
-
-
-•	LinkedIn: linkedin.com/in/supriya-s-50598a435
-
-•	GitHub: github.com/s2009up-cmd
-
-#### ⭐ Learning continuously. Building gradually. Improving every day.
-
-
+<p align="center">
+  ⭐ <i>Learning continuously. Building gradually. Improving every day.</i>
+</p>
