@@ -1,4 +1,4 @@
-# Hi there, I'm SUPRIYA S.
+# Hi there, I'm SUPRIYA S
 First-Year Computer Science & Engineering Student | Programming & Technology Learner
 
 GitHub: github.com/s2009up-cmd  
